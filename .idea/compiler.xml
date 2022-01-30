@@ -9,5 +9,9 @@
         <module name="vogella-test-mockito" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name=".mvn" target="1.5" />
+      <module name="wrapper" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

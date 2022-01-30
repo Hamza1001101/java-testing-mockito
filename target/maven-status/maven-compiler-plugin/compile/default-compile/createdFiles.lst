@@ -1,0 +1,10 @@
+junit5\Service.class
+audiomanager\VolumeUtil.class
+audiomanager\AudioManager.class
+twitterAPI\ITweet.class
+audiomanager\ConfigureThreadingUtil.class
+audiomanager\MyApplication.class
+junit5\Database.class
+plainjava\Main.class
+twitterAPI\TwitterClient.class
+audiomanager\RingerMode.class
